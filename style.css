@@ -1,0 +1,28 @@
+
+body {
+	font-family: Georgia;
+	font-variant: small-caps;
+	text-align: center;
+	margin: auto;
+}
+
+.logo {
+	font-family: Georgia;
+	font-size: 700%;
+	font-weight: bolder;
+	font-variant: small-caps;
+	color: #339;
+}
+
+.logo-letter{
+	padding: 30px;
+
+}
+
+.logo-l {
+	text-shadow: 25px 50px 20px rgba(0, 0, 0, 0.4);
+}
+
+.logo-h {
+	text-shadow: -25px 50px 20px rgba(0, 0, 0, 0.4);
+}
